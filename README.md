@@ -1,47 +1,77 @@
-# Olá! Eu sou Francisco Douglas 👋
+ <div align="center">
 
-🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:007CF0,100:00DFD8&height=200&section=header&text=FRANCISCO%20DOUGLAS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=16" width="100%"/>
 
-💻 Atualmente estou aprendendo:
-- Portugol — Lógica de programação.
-- Python — Fundamentos da programação.
-- Algoritmos e estruturas de repetição.
-- Variáveis, operadores e funções.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o" />
 
-🚀 **Objetivo:** Desenvolver minhas habilidades em programação, aprender novas tecnologias e evoluir na área de desenvolvimento de sistemas.
-
- 🛠️ Tecnologias em aprendizado
-
-- Python
-- Portugol
-- Git e GitHub
-
- 📚 Sobre mim
-
-Sou estudante e estou iniciando minha jornada na programação. Utilizo este GitHub para compartilhar meus exercícios, atividades, projetos e minha evolução durante o curso.
-
- 📊 Meus objetivos
-
-- Aprimorar minha lógica de programação.
-- Desenvolver meus primeiros projetos.
-- Aprender novas linguagens.
-- Construir experiência na área de tecnologia.
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 👨‍💻 Sobre mim
 
-<!--
-**dege010/dege010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+🐍 Atualmente aprendendo Python e lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estudando algoritmos, variáveis, operadores e estruturas de repetição.
+
+🚀 Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhores.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+
+</div>
+
+## 🌎 Idiomas
+
+<div align="center">
+
+🇧🇷 **Português:** Nativo
+
+🇺🇸 **Inglês:** B1 — Intermediário (Curso de Inglês)
+
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dege010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dege010&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dege010&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📂 Meus projetos
+
+<div align="center">
+
+<a href="https://github.com/dege010/atividades-python">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dege010&repo=atividades-python&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo e evoluindo!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:007CF0,100:00DFD8&height=100&section=footer" width="100%"/>
+
+</div>
