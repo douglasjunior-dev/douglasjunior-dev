@@ -20,11 +20,25 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
+### 📚 Atualmente estudando
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
 </div>
+
+### 🚀 Linguagens e tecnologias que quero aprender
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,cs,cpp,php,html,css,mysql,react,nodejs&theme=dark" />
+
+</div>
+
+**🎯 Objetivo:** ampliar meus conhecimentos em programação, desenvolvimento web, criação de sistemas e banco de dados.
+
+**Objetivo:** ampliar meus conhecimentos em programação, desenvolvimento web, banco de dados e desenvolvimento de sistemas.
 
 ## 🌎 Idiomas
 
