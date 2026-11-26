@@ -1,91 +1,51 @@
- <div align="center">
+# WELCOME
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:007CF0,100:00DFD8&height=200&section=header&text=FRANCISCO%20DOUGLAS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00A6A6&height=200&section=header&text=WELCOME&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Francisco%20Douglas%20%7C%20Systems%20Development%20Student&descAlignY=58&descSize=16" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o" />
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas
+</p>
 
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas.
-
-🐍 Atualmente aprendendo Python e lógica de programação.
-
-💻 Estudando algoritmos, variáveis, operadores e estruturas de repetição.
-
-🚀 Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhores.
-
-## 🛠️ Tecnologias e ferramentas
-
-### 📚 Atualmente estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-
-</div>
-
-### 🚀 Linguagens e tecnologias que quero aprender
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,cs,cpp,php,html,css,mysql,react,nodejs&theme=dark" />
-
-</div>
-
-**🎯 Objetivo:** ampliar meus conhecimentos em programação, desenvolvimento web, criação de sistemas e banco de dados.
-
-**Objetivo:** ampliar meus conhecimentos em programação, desenvolvimento web, banco de dados e desenvolvimento de sistemas.
-
-## 🌎 Idiomas
-
-<div align="center">
-
-🇧🇷 **Português:** Nativo
-
-🇺🇸 **Inglês:** B1 — Intermediário (Curso de Inglês)
-
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dege010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dege010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dege010&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📂 Meus projetos
-
-<div align="center">
-
-<a href="https://github.com/dege010/atividades-python">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dege010&repo=atividades-python&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
+<p align="center">
+  Aprendendo Python e lógica de programação.
+</p>
 
 ---
 
-<div align="center">
+## Sobre mim
 
-### 🚀 Sempre aprendendo e evoluindo!
+Estudante do curso Técnico em Desenvolvimento de Sistemas.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:007CF0,100:00DFD8&height=100&section=footer" width="100%"/>
+Atualmente aprendendo Python e lógica de programação.
 
-</div>
+Estudando algoritmos, variáveis, operadores e estruturas de repetição.
+
+Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhores.
+
+## Tecnologias e ferramentas
+
+### Atualmente estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+### Linguagens e tecnologias que quero aprender
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,cpp,php,html,css,mysql,react,nodejs" />
+</p>
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=douglasjunior-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjunior-dev&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp
