@@ -22,6 +22,8 @@ Atualmente aprendendo Python e lógica de programação.
 
 Estudando algoritmos, variáveis, operadores e estruturas de repetição.
 
+**Idiomas:** Português (Nativo) | Inglês (Intermediário - B1).
+
 Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhores.
 
 ## Tecnologias e ferramentas
@@ -32,10 +34,10 @@ Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhore
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-### Linguagens e tecnologias que quero aprender
+### Tecnologias que pretendo aprender
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,cpp,php,html,css,mysql,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,mysql" />
 </p>
 
 ---
@@ -48,4 +50,5 @@ Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhore
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasjunior-dev&theme=github-dark-blue&hide_border=true" />
+</p>
