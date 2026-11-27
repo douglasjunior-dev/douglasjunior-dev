@@ -9,36 +9,58 @@
 </p>
 
 <p align="center">
-  Aprendendo Python e lógica de programação.
+  Aprendendo programação e desenvolvendo projetos.
 </p>
 
 ---
 
 ## Sobre mim
 
-Estudante do curso Técnico em Desenvolvimento de Sistemas.
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas e tenho interesse na área de tecnologia e programação.
 
-Atualmente aprendendo Python e lógica de programação.
+Atualmente estou aprendendo Python e lógica de programação, estudando algoritmos, variáveis, operadores, funções e estruturas de repetição.
 
-Estudando algoritmos, variáveis, operadores e estruturas de repetição.
+Gosto de aprender coisas novas, resolver problemas e colocar em prática os conhecimentos adquiridos durante meus estudos.
 
 **Idiomas:** Português (Nativo) | Inglês (Intermediário - B1).
 
-Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhores.
+**Objetivo:** Desenvolver minhas habilidades e adquirir experiência na área de tecnologia.
+
+---
 
 ## Tecnologias e ferramentas
 
-### Atualmente estudando
+**Atualmente estudando**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-### Tecnologias que pretendo aprender
+**Tecnologias que pretendo aprender**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,java,mysql" />
 </p>
+
+---
+
+## Projetos
+
+### Calculadora em Python
+
+Projeto desenvolvido durante meus estudos de programação, utilizando funções para realizar operações matemáticas básicas.
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+- Tratamento de divisão por zero
+
+**Tecnologia:** Python
+
+[Visualizar código do projeto](https://github.com/douglasjunior-dev/atividades-python/blob/main/7.%20Projetos/calculadora.py)
+
+[Ver repositório de atividades](https://github.com/douglasjunior-dev/atividades-python)
 
 ---
 
@@ -51,4 +73,14 @@ Meu objetivo é evoluir na programação e desenvolver projetos cada vez melhore
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasjunior-dev&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/douglasjunior-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
